@@ -6,6 +6,6 @@ function filterArray(numbers, value) {
         }
     }
 
-    
-    return newNumbwers
+
+    return newNumbers
 }
